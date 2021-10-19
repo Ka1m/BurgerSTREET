@@ -469,13 +469,6 @@ body {
 .footer__list {
     margin: 38px 0 45px 0;
 }
-
-.footer__text {
-    color: var(--white);
-    font-family: var(--r100);
-    text-align: center;
-}
-
 /* Footer end */
 /* **************** */
 
